@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا قمر الليل بين النجوم
+> في هواك قلبي دايم يعوم
+> لمسة يديك تشفي الجراح
+> نار العشق في روحي تدوم
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
