@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Wara El Zekrayat
+
+This log tracks the cryptographic history and versioning for the song **Wara El Zekrayat** (wara-el-zekrayat).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T05:07:58.556844 | `v1` | `585c382d0df7d4b54656876110bd809d96d19ff0212c3a874aa6290b1e791898` | `2165ff64012b1c20e5529e1e4e2baa20d8882cdd1902d873e10fc95108fba540` | `2026-05-09_wara-el-zekrayat-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
